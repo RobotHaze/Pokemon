@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B1543ACF1ED4D8F400B5B501 /* PokeAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1543ACE1ED4D8F400B5B501 /* PokeAnnotation.swift */; };
 		B16A7CE31ECE4A050051FBFD /* PokedexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16A7CE21ECE4A050051FBFD /* PokedexViewController.swift */; };
 		B16A7CE51ECE4B830051FBFD /* CoreDataHelp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16A7CE41ECE4B830051FBFD /* CoreDataHelp.swift */; };
 		B185366C1ECB9F3F000CF214 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B185366B1ECB9F3F000CF214 /* AppDelegate.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B1543ACE1ED4D8F400B5B501 /* PokeAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokeAnnotation.swift; sourceTree = "<group>"; };
 		B16A7CE21ECE4A050051FBFD /* PokedexViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokedexViewController.swift; sourceTree = "<group>"; };
 		B16A7CE41ECE4B830051FBFD /* CoreDataHelp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreDataHelp.swift; sourceTree = "<group>"; };
 		B18536681ECB9F3F000CF214 /* Pokemon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pokemon.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -68,6 +70,7 @@
 				B185366D1ECB9F3F000CF214 /* ViewController.swift */,
 				B16A7CE21ECE4A050051FBFD /* PokedexViewController.swift */,
 				B16A7CE41ECE4B830051FBFD /* CoreDataHelp.swift */,
+				B1543ACE1ED4D8F400B5B501 /* PokeAnnotation.swift */,
 				B185366F1ECB9F3F000CF214 /* Main.storyboard */,
 				B18536751ECB9F3F000CF214 /* Assets.xcassets */,
 				B18536771ECB9F3F000CF214 /* LaunchScreen.storyboard */,
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B185366E1ECB9F3F000CF214 /* ViewController.swift in Sources */,
+				B1543ACF1ED4D8F400B5B501 /* PokeAnnotation.swift in Sources */,
 				B16A7CE31ECE4A050051FBFD /* PokedexViewController.swift in Sources */,
 				B185366C1ECB9F3F000CF214 /* AppDelegate.swift in Sources */,
 				B16A7CE51ECE4B830051FBFD /* CoreDataHelp.swift in Sources */,

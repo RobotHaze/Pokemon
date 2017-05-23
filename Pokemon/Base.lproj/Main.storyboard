@@ -43,7 +43,7 @@
                                 </constraints>
                                 <state key="normal" image="pokeball"/>
                                 <connections>
-                                    <segue destination="11s-Pa-Hiu" kind="presentation" id="La5-9N-vDK"/>
+                                    <segue destination="11s-Pa-Hiu" kind="presentation" identifier="pokedexSegue" id="La5-9N-vDK"/>
                                 </connections>
                             </button>
                         </subviews>
