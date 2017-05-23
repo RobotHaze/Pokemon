@@ -51,7 +51,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, MKMapViewDele
         mapView.showsUserLocation = true
         manager.startUpdatingLocation()
         
-        Timer.scheduledTimer(withTimeInterval: 5, repeats: true, block: { (timer) in
+        Timer.scheduledTimer(withTimeInterval: 30, repeats: true, block: { (timer) in
             // Spawn a Pokemon
             if let coord = self.manager.location?.coordinate {
                 
